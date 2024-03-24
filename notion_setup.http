@@ -1,11 +1,11 @@
-get https://api.notion.com/v1/databases/587e2098d85142aab90e5b6e25cb3ce6
-Authorization: Bearer secret_uiMuV0x2ugBWB6j4g8mqZ55DiuF3SklSmUCneRf1mTo
+get https://api.notion.com/v1/databases/????
+Authorization: Bearer ????
 Notion-Version: 2021-05-13
 
 ###
 
-post https://api.notion.com/v1/databases/587e2098d85142aab90e5b6e25cb3ce6/query
-Authorization: Bearer secret_uiMuV0x2ugBWB6j4g8mqZ55DiuF3SklSmUCneRf1mTo
+post https://api.notion.com/v1/databases/????/query
+Authorization: Bearer ????
 Notion-Version: 2021-05-13
 
 
